@@ -1,5 +1,5 @@
 {
-  "name": "threejscc-portfolio",
+  "name": "DiptheDev3d",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +15,7 @@
     "@react-three/drei": "^9.111.3",
     "@react-three/fiber": "^8.17.6",
     "@types/three": "^0.168.0",
+    "emailjs-com": "^3.2.0",
     "gsap": "^3.12.5",
     "leva": "^0.9.35",
     "maath": "^0.10.8",
